@@ -1,0 +1,22 @@
+{
+  "name": "appvance_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node -r ./src",
+    "question-1": "node src/question-1",
+    "question-2": "node src/question-2",
+    "question-3": "node src/question-3",
+    "question-4": "node src/question-4",
+    "question-5": "node src/question-5",
+    "question-6": "node src/question-6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
